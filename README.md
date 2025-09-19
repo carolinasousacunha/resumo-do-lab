@@ -18,3 +18,13 @@ Níveis de qualidade, prazo e responsabilidade.
 Métricas - tempo de resposta e disponibilidade.
 
 <img width="1235" height="335" alt="image" src="https://github.com/user-attachments/assets/f392bd3e-e678-496f-b620-e8def7e87e4a" />
+
+
+
+IAAS, PAAS, SAAS
+<img width="1084" height="392" alt="image" src="https://github.com/user-attachments/assets/d218bb9a-5373-4a20-9076-7cbec1a73a3c" />
+
+
+
+MODELO DE RESPONSABILIDADE COMPARTILHADA
+<img width="825" height="456" alt="image" src="https://github.com/user-attachments/assets/91049f29-a96c-4c3a-ba74-723dfb9c5fa1" />
